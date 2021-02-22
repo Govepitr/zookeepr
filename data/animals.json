@@ -1,6 +1,16 @@
 {
   "animals": [
     {
+      "name": "Tammy",
+      "species": "Swan",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "17"
+    },
+    {
       "id": "0",
       "name": "Spindle",
       "species": "bear",
@@ -144,6 +154,24 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Ron Johnson",
+      "species": "Monkey-ish",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Ron Swanson",
+      "species": "Swan",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
     }
   ]
 }
