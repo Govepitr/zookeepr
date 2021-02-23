@@ -1,0 +1,70 @@
+{
+  "zookeepers": [
+    {
+      "id": "0",
+      "name": "Kim",
+      "age": 28,
+      "favoriteAnimal": "dolphin"
+    },
+    {
+      "id": "1",
+      "name": "Raksha",
+      "age": 31,
+      "favoriteAnimal": "penguin"
+    },
+    {
+      "id": "2",
+      "name": "Isabella",
+      "age": 67,
+      "favoriteAnimal": "bear"
+    },
+    {
+      "id": "3",
+      "name": "Linda",
+      "age": 48,
+      "favoriteAnimal": "otter"
+    },
+    {
+      "id": "4",
+      "name": "Ryan",
+      "age": 20,
+      "favoriteAnimal": "dog"
+    },
+    {
+      "id": "5",
+      "name": "Alex",
+      "age": 32,
+      "favoriteAnimal": "Sloths"
+    },
+    {
+      "id": "6",
+      "name": "Harrison",
+      "age": 18,
+      "favoriteAnimal": "Red Fur Fox"
+    },
+    {
+      "id": "7",
+      "name": "Kash",
+      "age": 30,
+      "favoriteAnimal": "African Elephant"
+    },
+    {
+      "id": "8",
+      "name": "Dan",
+      "age": 37,
+      "favoriteAnimal": "Hyena"
+    },
+    {
+      "name": "Les",
+      "age": 64,
+      "favoriteAnimal": "Rabbit",
+      "id": "9"
+    },
+    {
+      "name": "Sweet Caroline",
+      "age": 57,
+      "favoriteAnimal": "Blue-footed Booby",
+      "id": "10"
+    }
+  ]
+}
